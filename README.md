@@ -104,7 +104,7 @@ It turns out that only the 'Datetime' column has missing values. Although the nu
 Data manipulation involves making changes to the dataset to prepare it for analysis or to extract valuable insights. This process includes tasks such as cleaning the data, transforming its structure, creating new features, and aggregating information.
 #### Drop Non-Essential Columns
 This step involves removing columns from the dataset that are deemed non-essential for the analysis. Non-essential columns are those that do not contribute significantly to the analysis or do not align with the research objectives. By dropping these columns, we can streamline the dataset and focus only on the most relevant features.
-<div align="center"><img src="https://github.com/Shabiyyahzlf/Crisp-DM_Mini-Project/assets/89763971/6479cc47-3a0c-40ac-becd-fc45bf2293fe" width="60%">
+<div align="center"><img src="https://github.com/Shabiyyahzlf/Crisp-DM_Mini-Project/assets/89763971/6479cc47-3a0c-40ac-becd-fc45bf2293fe" width="70%">
 </div>
 We drop columns such as 'Referee', 'Assistant 1', 'Assistant 2', 'Home Team Initials', and 'Away Team Initials' as they are not critical for the analysis at hand.
 #### Make Column Draw, Date, and Time
