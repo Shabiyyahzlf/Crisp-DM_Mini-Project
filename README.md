@@ -1,4 +1,4 @@
-# Crisp-DM_Mini-Project
+# World Cup Matches
 ## Business Understanding
 During the FIFA World Cup, various sports events are held, one of which is World Cup Matches. The World Cup Matches dataset contains information about football matches that occurred during the FIFA World Cup from 1930 to 2014.
 
@@ -56,12 +56,12 @@ Create a data frame then load the data set. Here the dataset used is WorldCupMat
 <div align="center"><img src="https://github.com/Shabiyyahzlf/Crisp-DM_Mini-Project/assets/89763971/b1e3f13b-0ad1-4207-b97b-be08268dbfab" width="55%">
 </div>
 Display the data set that has been loaded
-<div align="center"><img src="https://github.com/Shabiyyahzlf/Crisp-DM_Mini-Project/assets/89763971/4f4487dd-50e8-4385-9684-7c922b3e36df" width="35%">
+<div align="center"><img src="https://github.com/Shabiyyahzlf/Crisp-DM_Mini-Project/assets/89763971/4f4487dd-50e8-4385-9684-7c922b3e36df" width="25%">
 </div>
 
 ### Data Cleansing
 #### Check Data Condition
-<div align="center"><img src="https://github.com/Shabiyyahzlf/Crisp-DM_Mini-Project/assets/89763971/f6c4c951-6a1d-45fa-923b-6ce4315d7dfc" width="40%">
+<div align="center"><img src="https://github.com/Shabiyyahzlf/Crisp-DM_Mini-Project/assets/89763971/f6c4c951-6a1d-45fa-923b-6ce4315d7dfc" width="50%">
 </div>
 From the description, we can see that some columns have fewer non-null values than the total entries (4572), indicating the presence of null or empty values in the DataFrame. Additionally, we can also observe the data types of each column, where there are columns whose data types are not yet appropriate.
 
